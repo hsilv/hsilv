@@ -31,6 +31,8 @@ Welcome to my profile! I'm a Computer Science Student at UVG. Having special exp
 ![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest&logoColor=orange)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-black?style=flat-square&logo=tailwindcss&logoColor=1DC0CD)
 ![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=next.js)
+![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite)
+![Webpack](https://img.shields.io/badge/-Webpack-black?style=flat-square&logo=webpack)
 <br />
 <br />
 **Backend**
