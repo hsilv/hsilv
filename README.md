@@ -68,7 +68,7 @@ Welcome to my profile! I'm a Computer Science Student at UVG. Having special exp
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus&logoColor=skyblue)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 <br />
-<br />
+
 ---
 ## 📈 Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hsilv&theme=dark&background=000000)](https://git.io/streak-stats)
